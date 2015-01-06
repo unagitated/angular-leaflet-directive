@@ -11,7 +11,7 @@
     "dist/angular-leaflet-directive.js"
   ],
   "dependencies": {
-    "angular": ">1.2.x",
+    "angular": "1.2.x",
     "leaflet": "0.7.x",
     "font-awesome": "~4.2.0"
   },
